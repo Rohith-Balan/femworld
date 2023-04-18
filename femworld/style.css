@@ -1,0 +1,147 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: 'Lora', serif;
+font-family: 'Poppins', sans-serif;
+
+}
+
+.logo{
+    margin-left: 18px;
+    font-size: 20px;
+}
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    color: black;
+    
+}
+
+.logo, ul, li, a{
+    color: rgb(44, 43, 43);
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 25px ;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.list{
+    margin-left:124px;
+    padding-left: 0;
+    
+}
+.search-bar{
+     margin-left: 216px ;
+    
+    
+}
+
+.logo::first-letter{
+    color: rgb(202, 58, 1);
+    font-size: 28px;
+    font-weight: 600;
+
+}
+
+.btn-start{
+    background-color: rgb(44, 43, 43);
+    color: white;
+    width: 100px;
+    height:30px;
+    border:none;
+}
+
+.srcbox{
+    border-style:none ;
+    border: none;
+    padding: 6px;
+}
+
+.vl{
+    border-left: 3px solid rgb(202, 58, 1);
+    height: 61px;
+    margin-left: 281px;
+    margin-top: 47px;
+    width:10px;
+}
+
+.lux{
+    margin-left: 319px;
+    margin-top: -96px;
+    font-size: 80px;
+    width:420px;
+}
+.exe{
+    font-size: 80px;
+    margin-left: 241px;
+    margin-top: -71px;
+    width:700px;
+}
+.para{
+    color: rgb(44, 43, 43);
+    text-align: center;
+    margin-right: 125px;
+    font-size: 14px;
+    padding-top: -17px;
+    bottom: 46px;
+    position: relative;
+}
+/* modeldiamond */
+#bidia{
+    size: -16px;
+    font-size: 46px;
+    color: rgb(202, 58, 1);
+}
+
+
+/* img */
+
+.img1{
+    width: 160px;
+    height: 220px;
+    margin-left: 284px;
+    bottom: 50px;
+    position: relative;
+}
+
+.img2{
+    width: 200px;
+    height: 249px;
+    position: relative;
+    margin-left: 28px;
+    bottom: 2px;
+}
+
+.img3{
+    width: 160px;
+    height: 220px;
+    position: relative;
+    margin-left: 710px;
+    bottom: 278px;
+
+}
+
+.vl2{
+    border-left: 3px solid rgb(202, 58, 1);
+    height: 61px;
+    margin-left: 38px;
+    margin-top: -154px;
+    width: 10px;
+}
+.newr{
+    font-size: 50px;
+    margin-left: 58px;
+    margin-top: -66px;
+}
+#bi{
+    font-size: 22px;
+    color: rgb(202, 58, 1);
+    margin-left: 58px;
+}
